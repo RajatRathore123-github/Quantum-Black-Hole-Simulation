@@ -78,7 +78,12 @@ pip install numpy h5py matplotlib scipy
 
 ---
 
-## ⚖️ Open-Science Protection & Citation
-This multi-disciplinary cosmology suite is open-source and legally protected under the **MIT License**. 
+## ⚖️ Open-Science Protection & Restrictive Licensing
+This multi-disciplinary cosmology suite and all associated preprints are protected under the strict terms of the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license. 
+
+### Core Legal Terms:
+*   **Attribution (BY):** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You must cite **Rajat Rathore** as the sole primary author.
+*   **Non-Commercial (NC):** You may not use the material, data models, equations, or software pipelines for commercial purposes or corporate monetization.
+*   **No-Derivatives (ND):** If you remix, transform, or build upon the material, you may not distribute the modified material. Source code scripts must be kept intact in their original published form.
 
 
